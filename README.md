@@ -1,11 +1,13 @@
-# 🪙 Cotizador de Criptomonedas
-
-Aplicación web para consultar cotizaciones de criptomonedas en distintas monedas fiduciarias. Obtiene datos de mercado en tiempo real desde la API pública de [CoinGecko](https://www.coingecko.com/).
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC647?style=for-the-badge)
+<div align="center">
+  <h1>🪙 Cotizador de Criptomonedas</h1>
+  <p>Aplicación web para consultar cotizaciones de criptomonedas en distintas monedas fiduciarias. Obtiene datos de mercado en tiempo real desde la API pública de <a href="https://www.coingecko.com/">CoinGecko</a>.</p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/API-CoinGecko-8DC647?style=for-the-badge" alt="CoinGecko API">
+  </p>
+</div>
 
 ---
 ## Demo
@@ -117,9 +119,10 @@ La moneda de referencia se envía en minúsculas a CoinGecko (por ejemplo, `USD`
 
 No se especifica una licencia en este proyecto. Consulta con el titular antes de reutilizar o distribuir el código.
 
+---
 - Para más información sobre el proyecto o servicios de desarrollo web: 
 
-- **JEB$DEV**
+- <span>**JEB$DEV**</span>
 - **Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
