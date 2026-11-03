@@ -122,7 +122,7 @@ No se especifica una licencia en este proyecto. Consulta con el titular antes de
 ---
 - Para más información sobre el proyecto o servicios de desarrollo web: 
 
-- ##JEB$DEV
+- ## JEB$DEV
 - **Desarrollador FrontEnd - Javier Berchtold**
 
 - [GitHub](https://github.com/JEB76-22)
